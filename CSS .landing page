@@ -1,1 +1,38 @@
+body{
+font-family:"Arial",sans-serif;
+margin:0;
+}
+header{
+overflow: hidden;
+background-color: #1f2937;
+padding: 20px 10px;
+}
+/*NAVIGATION*/
+.logo{
+font-size: 24px;
+font-weight: bold;
+color: #F9FAF8;
+}
+
+.active{
+background-color: #F9FAF8;
+}
+
+.nav ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+gap: 1.5em;
+}
+
+.secondary headerlink{
+font-size: 18px;
+background-color: #E5E7EB;
+}
+
+
+
+
+
 
