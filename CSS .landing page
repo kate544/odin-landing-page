@@ -27,9 +27,7 @@ background-color: #F9FAF8;
 
 .nav ul{
 list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
+display: flex;
 gap: 1.5em;
 }
 
